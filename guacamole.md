@@ -2,4 +2,5 @@ recepie
 
 - salt 
 water ≈
-- tomatoes 
+- tomatoes
+- avocados 
